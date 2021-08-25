@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/reduxHook/static/js/main.3911d14a.chunk.js",
-    "main.js.map": "/reduxHook/static/js/main.3911d14a.chunk.js.map",
-    "runtime-main.js": "/reduxHook/static/js/runtime-main.36f59b99.js",
-    "runtime-main.js.map": "/reduxHook/static/js/runtime-main.36f59b99.js.map",
-    "static/js/2.7581c6c2.chunk.js": "/reduxHook/static/js/2.7581c6c2.chunk.js",
-    "static/js/2.7581c6c2.chunk.js.map": "/reduxHook/static/js/2.7581c6c2.chunk.js.map",
-    "index.html": "/reduxHook/index.html",
-    "static/js/2.7581c6c2.chunk.js.LICENSE.txt": "/reduxHook/static/js/2.7581c6c2.chunk.js.LICENSE.txt"
+    "main.js": "/nesting/static/js/main.3911d14a.chunk.js",
+    "main.js.map": "/nesting/static/js/main.3911d14a.chunk.js.map",
+    "runtime-main.js": "/nesting/static/js/runtime-main.51cc4eea.js",
+    "runtime-main.js.map": "/nesting/static/js/runtime-main.51cc4eea.js.map",
+    "static/js/2.7581c6c2.chunk.js": "/nesting/static/js/2.7581c6c2.chunk.js",
+    "static/js/2.7581c6c2.chunk.js.map": "/nesting/static/js/2.7581c6c2.chunk.js.map",
+    "index.html": "/nesting/index.html",
+    "static/js/2.7581c6c2.chunk.js.LICENSE.txt": "/nesting/static/js/2.7581c6c2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.36f59b99.js",
+    "static/js/runtime-main.51cc4eea.js",
     "static/js/2.7581c6c2.chunk.js",
     "static/js/main.3911d14a.chunk.js"
   ]
